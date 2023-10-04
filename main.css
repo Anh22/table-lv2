@@ -1,0 +1,29 @@
+table,tr,th,td{
+    border-collapse: collapse;
+    border:1px solid #dddddd;
+    padding: 8px;
+    /*width: 100%;*/
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+th{
+    font-size: 18px;
+    color: white;
+    font-family: "Fira Code";
+    background: red;
+    font-weight:bold;
+    padding:20px;
+
+
+}
+td{
+    border:1px solid black;
+    padding:20px 20px 20px 20px;
+
+
+
+}
